@@ -1,11 +1,14 @@
 title: Blandine JATSA NGUETSE # your name (or website title) here
-logo: "/images/profils__linkedIn.PNG?raw=true" # your photo (or logo ) here
+logo: "/images/profilsinkedIn.PNG?raw=true" # your photo (or logo ) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Je travaille au quotidien dans l'extraction, le traitement et l'analyse pointue des données afin de
+  générer de la connaissance. Mes atouts pour réussir: la curiosité, la rigueur et l'esprit de synthèse. 
   <br><br>
-  Second description 
+  Mon moteur de carrière est de valoriser l'ensemble des données recueillies en masse (big data) pour réaliser les 
+  nombreux reporting nécessaires à différents services et acteurs grâce a une compréhension éclairée des enjeux 
+  métier, un accompagnement adapté auclient et une capacité de travail en équipe dans un environnement dynamique. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/blandine-jatsa-nguetse-ingenieur-data-scientist-connaissance-client-cdi/"> Mon Profile LinkedIn </a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
